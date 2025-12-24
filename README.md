@@ -1,6 +1,8 @@
+<img width="1174" height="916" alt="453742335-5a57dd6e-83d4-449f-88ec-1f813a450a69" src="https://github.com/user-attachments/assets/11ca2677-dccd-4dbf-a1a0-9d1048520d47" />
 # 🔐 Fix n8n Login Error: "Wrong username or password"
 
 **Quick solution for n8n login problems** - Reset user management without losing workflows or credentials when facing authentication issues in self-hosted n8n instances.
+
 
 ## 📌 Problem Symptoms
 When trying to login to your n8n self-hosted instance, you suddenly get:
